@@ -7,4 +7,6 @@ r:
   - oldrel
   - release
   - devel
+  - bioc-devel
+  - bioc-release
 
